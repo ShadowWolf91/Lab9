@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o9DR3K3/1M4MR7pOja5Zvj5AxlYZpxlDa18nZbuQRoK2e9tih040VwbU9PAXTh+PBZYc8o/OaAllF+VcRTzOWQ==",
+  "dgSpecHash": "VQ1w6O4cqSIESHA35k3SvcqdF04ko1rPNpmSFLjIz3EIT3DZl+Gp2lLZ/MBRB4lzRr0EqARyR9yi18QHtIiYHA==",
   "success": true,
-  "projectFilePath": "D:\\BSTU\\3курс\\ТПО\\LAB1\\TPO\\Lab9\\ICanWiin\\ICWnBIO.csproj",
+  "projectFilePath": "D:\\BSTU\\3курс\\ТПО\\LAB1\\Lab9\\ICanWiin\\ICWnBIO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ShadowWolf\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\ShadowWolf\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

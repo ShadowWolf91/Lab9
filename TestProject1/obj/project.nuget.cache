@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "smKYUK9henZBZDTIugQ0Gc/rjnRpNAKlDIxrOeMQshugkz5CBp5rSuc2eaIesHX9ZAd4R01lwgVYcjQXanlgAg==",
+  "dgSpecHash": "44ghlsu1zZ0XH9vLQOiyS2/x5jHApOSTqDC0REvt72vALVd+VzCfbtXUoRw70IU3g/6CZvVYTdp6Qz1M+QNbKg==",
   "success": true,
-  "projectFilePath": "D:\\BSTU\\3курс\\ТПО\\LAB1\\TPO\\Lab9\\TestProject1\\LenovoTest.csproj",
+  "projectFilePath": "D:\\BSTU\\3курс\\ТПО\\LAB1\\Lab9\\TestProject1\\LenovoTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ShadowWolf\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\ShadowWolf\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",

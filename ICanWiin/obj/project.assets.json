@@ -1541,11 +1541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BSTU\\3курс\\ТПО\\LAB1\\TPO\\Lab9\\ICanWiin\\ICWnBIO.csproj",
+      "projectUniqueName": "D:\\BSTU\\3курс\\ТПО\\LAB1\\Lab9\\ICanWiin\\ICWnBIO.csproj",
       "projectName": "ICWnBIO",
-      "projectPath": "D:\\BSTU\\3курс\\ТПО\\LAB1\\TPO\\Lab9\\ICanWiin\\ICWnBIO.csproj",
+      "projectPath": "D:\\BSTU\\3курс\\ТПО\\LAB1\\Lab9\\ICanWiin\\ICWnBIO.csproj",
       "packagesPath": "C:\\Users\\ShadowWolf\\.nuget\\packages\\",
-      "outputPath": "D:\\BSTU\\3курс\\ТПО\\LAB1\\TPO\\Lab9\\ICanWiin\\obj\\",
+      "outputPath": "D:\\BSTU\\3курс\\ТПО\\LAB1\\Lab9\\ICanWiin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ShadowWolf\\AppData\\Roaming\\NuGet\\NuGet.Config",
